@@ -6,4 +6,4 @@ function bye () {
   console.log("bye");
 }
 
-
+hello()
